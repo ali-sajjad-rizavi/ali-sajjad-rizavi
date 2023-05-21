@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">Computer Scientist</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social presence:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ali-sajjad-rizavi-911965192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-sajjad-rizavi-911965192" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12065150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12065150" height="30" width="40" /></a>
