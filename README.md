@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">Computer Scientist</h3>
+<h3 align="center">Computer Scientist | Data Engineer | Retool Expert</h3>
 
 <h3 align="left">Social presence:</h3>
 <p align="left">
